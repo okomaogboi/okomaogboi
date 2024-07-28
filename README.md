@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @okomaogboi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Okomaogoi
 
-<!---
-okomaogboi/okomaogboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Okoma Ogboi! 👋
+
+🎓 **Student at University of the People**  
+📚 **Aspiring Software Engineer**
+
+## About Me
+
+I am a passionate software engineering student currently enrolled at the University of the People. With a strong foundation in Python and Java, I am continuously expanding my skills and knowledge in software development.
+
+## Skills
+
+- **Languages:** Python, Java
+- **Web Development:** HTML, CSS, JavaScript
+- **Database Management:** SQL
+
+
+## Connect with 
+
+I am always open to learning new things and collaborating on exciting projects. Feel free to reach out!
