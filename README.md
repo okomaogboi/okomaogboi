@@ -1,4 +1,4 @@
-# Okomaogoi
+# Okomaogboi
 
 # Hi there, I'm Okoma Ogboi! 👋
 
